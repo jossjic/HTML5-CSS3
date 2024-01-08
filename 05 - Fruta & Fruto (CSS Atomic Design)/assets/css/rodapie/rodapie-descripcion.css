@@ -1,0 +1,13 @@
+.rodapie__descripcion{
+    display:flex;
+    font-size: 2rem;
+    margin-left: 5rem;
+    color: #8C8888;
+}
+
+@media screen and (max-width: 768px) {
+    .rodapie__descripcion{
+        margin: initial;
+        font-size: 1.5rem;
+    }
+}

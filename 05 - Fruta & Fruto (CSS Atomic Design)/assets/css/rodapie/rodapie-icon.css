@@ -1,0 +1,11 @@
+.rodapie__icon{
+    margin-right: 1.25rem;
+   
+}
+
+@media screen and (max-width: 768px) {
+    .rodapie__icon{
+        margin-right: initial;
+        margin: 1.25 rem;
+    }
+}
