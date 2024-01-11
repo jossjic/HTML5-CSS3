@@ -13,7 +13,7 @@ Este repositorio alberga una serie de proyectos enfocados en HTML5 y CSS3, demos
 > - Tecnologías: Para la gestión e interacción con la base de datos utilizamos PHP y MySQL, para la presentación de la información utilizamos HTML5, CSS3, JavaScript y SCSS.
 > ### Enlaces
 > - [Repositorio (También tienes acceso desde el submódulo)](https://github.com/jossjic/ExpoIngenieria)
-> - [Demostración de la página](https://192-168-1-2.imdcloud.direct.quickconnect.to/~administrador/)
+> - [Demostración de la página](https://jossjic.github.io/ExpoIngenieria/)
 > ### Cuentas para prueba
 > - Administrador
 >     - Correo: adm@expo.mx
