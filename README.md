@@ -27,7 +27,7 @@ Este repositorio alberga una serie de proyectos enfocados en HTML5 y CSS3, demos
 
 ## Proyectos Destacados
 ### 01 - 📈 MarkLive (Mi Primer Proyecto)
-
+![Gif Test](gifs/gif.gif)
 - Descripción: Uno de los primeros proyectos en HTML que realicé, aquí comenzaba a comprender los conceptos de programación web. Página enfocada en la administración de campañas de marketing.
 - Tecnologías: Se usó principalmente HTML5 Y CSS3, a nivel básico.
 
