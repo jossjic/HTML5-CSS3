@@ -16,14 +16,14 @@ Este repositorio alberga una serie de proyectos enfocados en HTML5 y CSS3, demos
 > - [Demostración de la página](https://jossjic.github.io/ExpoIngenieria/)
 > ### Cuentas para prueba
 > - Administrador
->     - Correo: adm@expo.mx
->     - Contraseña: 1234
+>     - Correo: `adm@expo.mx`
+>     - Contraseña: `1234`
 > - Colaborador
->     - Correo: luisa@example.com
->     - Contraseña: clave123
+>     - Correo: `luisa@example.com`
+>     - Contraseña: `clave123`
 > - Proyecto
->     - Nombre Clave: proyecto1
->     - Contraseña: 123456
+>     - Nombre Clave: `proyecto1`
+>     - Contraseña: `123456`
 
 ## Proyectos Destacados
 ### 01 - 📈 MarkLive (Mi Primer Proyecto)
