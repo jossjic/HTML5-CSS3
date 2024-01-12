@@ -1,11 +1,6 @@
 {
   "perfil": [
     {
-      "nombre": "Cliente 4",
-      "email": "cliente4@example.com",
-      "id": "e0473b02-c6c9-46ff-9550-f2a7d09ee903"
-    },
-    {
       "nombre": "Cliente 5",
       "email": "cliente5@example.com",
       "id": "e0473b02-c6c9-46ff-9550-f2a7d09ee904"
@@ -281,11 +276,6 @@
       "id": "e0473b02-c6c9-46ff-9550-f2a7d09ee958"
     },
     {
-      "nombre": "Cliente 60",
-      "email": "cliente60@example.com",
-      "id": "e0473b02-c6c9-46ff-9550-f2a7d09ee959"
-    },
-    {
       "nombre": "Cliente 61",
       "email": "cliente61@example.com",
       "id": "e0473b02-c6c9-46ff-9550-f2a7d09ee960"
@@ -364,11 +354,6 @@
       "nombre": "Cliente 76",
       "email": "cliente76@example.com",
       "id": "e0473b02-c6c9-46ff-9550-f2a7d09ee975"
-    },
-    {
-      "nombre": "Cliente 77",
-      "email": "cliente77@example.com",
-      "id": "e0473b02-c6c9-46ff-9550-f2a7d09ee976"
     },
     {
       "nombre": "Cliente 78",
