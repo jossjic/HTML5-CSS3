@@ -9,6 +9,7 @@ Este repositorio alberga una serie de proyectos enfocados en HTML5 y CSS3, demos
 ## Proyecto Principal
 > [!NOTE]  
 > ### 00 - Expo Ingenierías (Mi proyecto más extenso de HTML5, CSS3 Y PHP)
+![Gif Test](gifs/expo.gif)
 > - Descripción: Con una duración de 6 meses trabajamos en una página web (Frontend y Backend) para la administración de proyectos del Tecnológico de Monterrey.
 > - Tecnologías: Para la gestión e interacción con la base de datos utilizamos PHP y MySQL, para la presentación de la información utilizamos HTML5, CSS3, JavaScript y SCSS.
 > ### Enlaces
