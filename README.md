@@ -47,22 +47,22 @@ Este repositorio alberga una serie de proyectos enfocados en HTML5 y CSS3, demos
 
 ### 04 - 📱 Apeperia (Diseño Responsivo)
 ![Gif Test](gifs/apepeira.gif)
-- Descripción: Proyecto con enfoque Mobile First y el diseño responsivo. Página enfocada en una empresa con el giro de dispositivos móbiles.
+- Descripción: Proyecto con enfoque Mobile First y el diseño responsivo. Página enfocada en una empresa con el giro de dispositivos móviles.
 - Tecnologías: HTML Y CSS, con enfoque resposivo.
 
 ### 05 - 🍉 Fruta & Fruto (CSS Atomic Design)
 ![Gif Test](gifs/fruta.gif)
-- Descripción: Proyecto enfocado en la metodología Atomic Design de Brad Frost. Diseño sencillo efocado en la estructuración a partir de esta metodología. Página enfocada en recetas de cocina.
+- Descripción: Proyecto enfocado en la metodología Atomic Design de Brad Frost. Diseño sencillo enfocado en la estructuración a partir de esta metodología. Página enfocada en recetas de cocina.
 - Tecnologías: HTML Y CSS, con enfoque Atomic Desing.
 
 ### 06 - 🐕 Doguito Petshop (Validación de Campos)
 ![Gif Test](gifs/doguitoVA.gif)
-- Descripción: Página pequeña con finalidad de practicar la validación de campos con expresiónes regulares y tecnologías nativas. Página enfocada en una tienda de mascotas.
+- Descripción: Página pequeña con finalidad de practicar la validación de campos con expresiones regulares y tecnologías nativas. Página enfocada en una tienda de mascotas.
 - Tecnologías: HTML y CSS, con enfoque en expresiones regulares y validación de campos.
 
 ### 07 - 🐕 Doguito Petshop (CRUD Async json-server backend)
 ![Gif Test](gifs/doguitoCRUD.gif)
-- Descripción: Página pequeña con finalidad de practicar la gestión de datos CRUD en Javascript ([Link al respositorio de Javascript](https://github.com/jossjic/JavaScript)) y el uso de base de datos.
+- Descripción: Página pequeña con finalidad de practicar la gestión de datos CRUD en Javascript ([Link al repositorio de Javascript](https://github.com/jossjic/JavaScript)) y el uso de base de datos.
 - Tecnologías: HTML, CSS Y JS, con enfoque en la gestión de datos.
 
 
@@ -70,6 +70,6 @@ Este repositorio alberga una serie de proyectos enfocados en HTML5 y CSS3, demos
 > ## Contribuciones y Contacto
 > - ¡Estoy abierto a colaboraciones y sugerencias! Siéntete libre de explorar, bifurcar y contribuir a este repositorio.
 > - Para cualquier pregunta o comentario, no dudes en ponerte en contacto en:
-> - [Linkedin](https://www.linkedin.com/in/jossjic/)
+> - [LinkedIn](https://www.linkedin.com/in/jossjic/)
 > - [Correo](mailto:jossjic_03@hotmail.com)
 > - **¡Gracias por visitar y explorar mi portafolio de proyectos HTML y CSS!**
