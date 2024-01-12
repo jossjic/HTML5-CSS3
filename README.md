@@ -31,6 +31,10 @@ Este repositorio alberga una serie de proyectos enfocados en HTML5 y CSS3, demos
 ![Gif Test](gifs/MarkLive.gif)
 - Descripción: Uno de los primeros proyectos en HTML que realicé, aquí comenzaba a comprender los conceptos de programación web. Página enfocada en la administración de campañas de marketing.
 - Tecnologías: Se usó principalmente HTML5 Y CSS3, a nivel básico.
+- Uso:
+    - Descargar la carpeta en zip (recomendado) o clonar el repositorio
+    - Descomprimir la carpeta en caso de haberla descargado
+    - Ejecutar el archivo index.html (para mejores resutados hacerlo en un servidor web local o remoto)
 
   
 ### 02 - 🧔‍♂️ Barbería Alura (HTML5 Y CSS3 Base)
@@ -38,33 +42,63 @@ Este repositorio alberga una serie de proyectos enfocados en HTML5 y CSS3, demos
 
 - Descripción: Primer proyecto realizado en el programa Oracle Next Education, enfocado en el uso de recursos externos y buenas prácticas. Página enfocada en una Barbería.
 - Tecnologías: HTML Y CSS
+- Uso:
+    - Descargar la carpeta en zip (recomendado) o clonar el repositorio
+    - Descomprimir la carpeta en caso de haberla descargado
+    - Ejecutar el archivo index.html (para mejores resutados hacerlo en un servidor web local o remoto)
 
 ### 03 - 🤖 Alurinha (Manejo de Flexbox)
 ![Gif Test](gifs/alurinha.gif)
 
 - Descripción: Proyecto con enfoque en el modelo de diseño Flexbox, un proyecto más corto que busca explotar dicha tecnología.
 - Tecnologías: HTML Y CSS, con enfoque en Flexbox.
-
+- Uso:
+    - Descargar la carpeta en zip (recomendado) o clonar el repositorio
+    - Descomprimir la carpeta en caso de haberla descargado
+    - Ejecutar el archivo index.html (para mejores resutados hacerlo en un servidor web local o remoto)
+  
 ### 04 - 📱 Apeperia (Diseño Responsivo)
 ![Gif Test](gifs/apepeira.gif)
 - Descripción: Proyecto con enfoque Mobile First y el diseño responsivo. Página enfocada en una empresa con el giro de dispositivos móviles.
 - Tecnologías: HTML Y CSS, con enfoque resposivo.
+- Uso:
+    - Descargar la carpeta en zip (recomendado) o clonar el repositorio
+    - Descomprimir la carpeta en caso de haberla descargado
+    - Ejecutar el archivo index.html (para mejores resutados hacerlo en un servidor web local o remoto)
 
 ### 05 - 🍉 Fruta & Fruto (CSS Atomic Design)
 ![Gif Test](gifs/fruta.gif)
 - Descripción: Proyecto enfocado en la metodología Atomic Design de Brad Frost. Diseño sencillo enfocado en la estructuración a partir de esta metodología. Página enfocada en recetas de cocina.
 - Tecnologías: HTML Y CSS, con enfoque Atomic Desing.
+- Uso:
+    - Descargar la carpeta en zip (recomendado) o clonar el repositorio
+    - Descomprimir la carpeta en caso de haberla descargado
+    - Ejecutar el archivo index.html (para mejores resutados hacerlo en un servidor web local o remoto)
 
 ### 06 - 🐕 Doguito Petshop (Validación de Campos)
 ![Gif Test](gifs/doguitoVA.gif)
 - Descripción: Página pequeña con finalidad de practicar la validación de campos con expresiones regulares y tecnologías nativas. Página enfocada en una tienda de mascotas.
 - Tecnologías: HTML y CSS, con enfoque en expresiones regulares y validación de campos.
+- Uso:
+    - Descargar la carpeta en zip (recomendado) o clonar el repositorio
+    - Descomprimir la carpeta en caso de haberla descargado
+    - Ejecutar el archivo index.html (para mejores resutados hacerlo en un servidor web local o remoto)
 
 ### 07 - 🐕 Doguito Petshop (CRUD Async json-server backend)
 ![Gif Test](gifs/doguitoCRUD.gif)
 - Descripción: Página pequeña con finalidad de practicar la gestión de datos CRUD en Javascript ([Link al repositorio de Javascript](https://github.com/jossjic/JavaScript)) y el uso de base de datos.
 - Tecnologías: HTML, CSS Y JS, con enfoque en la gestión de datos.
-
+- Uso:
+    - Descargar la carpeta en zip (recomendado) o clonar el repositorio
+    - Descomprimir la carpeta en caso de haberla descargado
+    - Ejecutar el archivo lista_cliente.html (es 100% necesario hacerlo en un servidor web debido a reglas del protocolo http)
+    - Levantar un servidor de backend con el archivo db.json, yo utilicé json-server de npm para esto, siguiendo estos comandos en terminal de la carpeta raíz:
+ ~~~
+npm install json-server
+Set-ExecutionPolicy Unrestricted (es necesario ejecutar la terminal con permisos de administrador para hacer esto)
+json-server .\db.json
+~~~
+Y listo, así monté temporalmente el servidor backend de la página
 
 >[!IMPORTANT]
 > ## Contribuciones y Contacto
